@@ -26,7 +26,7 @@
 ## Setup Notes
     - Use sdkman to manage depndencies [sdkman installation link](https://sdkman.io/install)
 
-##Follow below steps for creating build
+## Follow below steps for creating build
 
 ```bash
    $ gradle clean build

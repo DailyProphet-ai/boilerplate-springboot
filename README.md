@@ -32,3 +32,10 @@
    $ gradle clean build
    $ java -jar build/libs/RESTSpringTest-0.0.1-SNAPSHOT.jar
 ```
+
+OR
+
+```bash
+$./build-and-run.sh # will run on localhost:8080
+
+```

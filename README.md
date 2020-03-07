@@ -24,7 +24,8 @@
     - Seeding
     
 ## Setup Notes
-    - Use sdkman to manage depndencies [sdkman installation link](https://sdkman.io/install)
+
+Use sdkman to manage depndencies [sdkman installation link](https://sdkman.io/install)
 
 ## Follow below steps for creating build
 
